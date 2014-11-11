@@ -3,7 +3,8 @@
     "document": true,
     "window": true,
     "-Promise": true,
-    "TodosENV": true
+    "EmberPouch": true,
+    "PouchDB": true
   },
   "browser" : true,
   "boss" : true,
